@@ -15,7 +15,7 @@ darkmode: true
 
 # Social links
 #twitter_username: facespics
-github_username:  heksaani
+github_username: heksaani
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -53,58 +53,58 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Citation handling application
-        link: https://github.com/Jouchef/ohtu_kandi_viitteet
-        # link_text: Project Website
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: github.com/Jouchef/ohtu_kandi_viitteet
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This was my first software development project done as part of a group. 
-        description: | # this will include new lines to allow paragraphs
-        It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application that allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method.
+- title: Projects # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: top-middle
+    title: Citation handling application
+    link: https://github.com/Jouchef/ohtu_kandi_viitteet
+    # link_text: Project Website
+    additional_links:
+    - title: Github page for project
+      icon: fab fa-github
+      url: github.com/Jouchef/ohtu_kandi_viitteet
+      # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #   icon: fab fa-github
+      #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+    quote: "This was my first software development project done as part of a group. \n"
+    description: "" # this will include new lines to allow paragraphs
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Folkhälsan Research Center
-        link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
-        # link_text: boringcompany.com
-        sub_title: Research Assistant
-        caption: January 2023 - Present
-        quote: >
-          Using different bioinformatic tools to analyse primarily sequencing data.
-        description: | # this will include new lines to allow paragraphs
+    ? It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application that allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method.
+    :
+- title: Experience # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: left
+    title: Folkhälsan Research Center
+    link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+    # link_text: boringcompany.com
+    sub_title: Research Assistant
+    caption: January 2023 - Present
+    quote: >
+      Using different bioinformatic tools to analyse primarily sequencing data.
+    description: | # this will include new lines to allow paragraphs
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of Helsinki
-        caption: 2019 - Present
-        sub_title: BSc of Science (2022) and MSc of Science (2024)
-        quote: >
-          I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. Perhaps mixing the two in the future utilizing MLOps.
-        description: | # this will include new lines to allow paragraphs
+- title: Education # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+  - layout: left
+    title: University of Helsinki
+    caption: 2019 - Present
+    sub_title: BSc of Science (2022) and MSc of Science (2024)
+    quote: >
+      I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. Perhaps mixing the two in the future utilizing MLOps.
+    description: | # this will include new lines to allow paragraphs
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Poetry
-      - Art
-      - Music
-      - Photography
-      - Knitting
+- title: A Little More About Me
+  layout: text
+  content: | # this will include new lines to allow paragraphs
+    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    - Poetry
+    - Art
+    - Music
+    - Photography
+    - Knitting
 
 
 # Footer
@@ -119,4 +119,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+- jekyll-seo-tag
