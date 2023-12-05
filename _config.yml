@@ -1,7 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
+repository: heksaani/CV
+#favicon: images/
 # Content configuration version
 version: 2
 
@@ -12,28 +11,28 @@ email: heidi.putkuri@helsinki.fi
 website: www.github.com/heksaani
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  heksaani
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: heksaani
+linkedin_username: heidi-putkuri
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,11 +45,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. I am currently working as a research assistant at Folkhälsan Research Center where I am doing bioinformatic analyses. I am also working on my Master's thesis which is focused on the pipelines used in analysing Long Read Sequencing data.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>problem solving</mark>
 
 content:
   - title: Projects # Title for the section
