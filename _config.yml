@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Heidi Putkuri
+title: Research Assistant at Folkhälsan Research Center
+email: heidi.putkuri@helsinki.fi
+website: www.github.com/heksaani
 
 # Dark Mode (true/false/never)
 darkmode: false
