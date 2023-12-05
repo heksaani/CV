@@ -1,0 +1,122 @@
+# Site
+repository: heksaani/CV/modern-resume-theme
+#favicon: images/
+# Content configuration version
+version: 2
+
+# Personal info
+name: Heidi Putkuri
+title: Research Assistant at Folkhälsan Research Center
+email: heidi.putkuri@helsinki.fi
+website: www.github.com/heksaani
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+#twitter_username: facespics
+github_username:  heksaani
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: heksaani
+linkedin_username: heidi-putkuri
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+#about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. I am currently working as a research assistant at Folkhälsan Research Center where I am doing bioinformatic analyses. I am also working on my Master's thesis which is focused on the pipelines used in analysing Long Read Sequencing data.
+
+  I am most skilled in: <mark>Python</mark> and <mark>problem solving</mark>
+
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Citation handling application
+        link: https://github.com/Jouchef/ohtu_kandi_viitteet
+        # link_text: Project Website
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: github.com/Jouchef/ohtu_kandi_viitteet
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This was my first software development project done as part of a group. 
+        description: | # this will include new lines to allow paragraphs
+        It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application that allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Folkhälsan Research Center
+        link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+        # link_text: boringcompany.com
+        sub_title: Research Assistant
+        caption: January 2023 - Present
+        quote: >
+          Using different bioinformatic tools to analyse primarily sequencing data.
+        description: | # this will include new lines to allow paragraphs
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Helsinki
+        caption: 2019 - Present
+        sub_title: BSc of Science (2022) and MSc of Science (2024)
+        quote: >
+          I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. Perhaps mixing the two in the future utilizing MLOps.
+        description: | # this will include new lines to allow paragraphs
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Poetry
+      - Art
+      - Music
+      - Photography
+      - Knitting
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
