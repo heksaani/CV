@@ -46,7 +46,7 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development.\nI am also starting to work on my Master's thesis this coming Spring. It will focus on the pipelines used in analysing \nLong Read Sequencing data. \n#magic___^_^___line\n#magic___^_^___line\n" # this will include new lines to allow paragraphs
+about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development.\nI am also starting to work on my Master's thesis this coming Spring. It will focus on the pipelines used in analysing \nLong Read Sequencing data. \n "
 content:
 - title: Projects # Title for the section
   layout: list
@@ -83,13 +83,13 @@ content:
 - title: Education # Title for the section
   layout: list # Type of content section (list/text)
   content:
-  - layout: left
+  - layout: bottom-middle
     title: University of Helsinki
     caption: 2019 - Present
     sub_title: BSc of Science (2019-2022) and MSc of Science (2024)
     quote: >
       Pursuing a Master's in Life Science Informatics with study track Bioinformatics and Systems Medicine.
-    description: "I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data \nmy current interest in software development and machine learning is taking me futher away from the academic side.\n#magic___^_^___line\n#magic___^_^___line\n"
+    description: "I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data \nmy current interest in software development and machine learning is taking me futher away from the academic side.\n\n"
 - title: A Little More About Me
   layout: text
   content: | # this will include new lines to allow paragraphs
