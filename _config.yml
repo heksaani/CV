@@ -46,36 +46,31 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. I am currently working as a research assistant at Folkhälsan Research Center where I am doing bioinformatic analyses. I am also working on my Master's thesis which is focused on the pipelines used in analysing Long Read Sequencing data.
-
-  I am most skilled in: <mark>Python</mark> and <mark>problem solving</mark>
-
-
+about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development.\nI am also starting to work on my Master's thesis this coming Spring. It will focus on the pipelines used in analysing \nLong Read Sequencing data. \n#magic___^_^___line\n#magic___^_^___line\n" # this will include new lines to allow paragraphs
 content:
 - title: Projects # Title for the section
-  layout: list # Type of content section (list/text)
+  layout: list
   content:
   - layout: top-middle
-    title: Citation handling application
+    border: weak
+    title: Citation management application
     link: https://github.com/Jouchef/ohtu_kandi_viitteet
-    # link_text: Project Website
     additional_links:
     - title: Github page for project
       icon: fab fa-github
       url: github.com/Jouchef/ohtu_kandi_viitteet
-      # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #   icon: fab fa-github
-      #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-    quote: "This was my first software development project done as part of a group. \n"
-    description: "" # this will include new lines to allow paragraphs
-
-    ? It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application that allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method.
-    :
+    #quote: >
+    #  A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+    description: "It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method\n"
+  - layout: top-middle
+    border: weak
+    title: Database application
+    link: https://github.com/heksaani/database-application
+    description: "We used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method\n"
 - title: Experience # Title for the section
   layout: list # Type of content section (list/text)
   content:
-  - layout: left
+  - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
     # link_text: boringcompany.com
@@ -91,11 +86,10 @@ content:
   - layout: left
     title: University of Helsinki
     caption: 2019 - Present
-    sub_title: BSc of Science (2022) and MSc of Science (2024)
+    sub_title: BSc of Science (2019-2022) and MSc of Science (2024)
     quote: >
-      I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data my current interet in software development is leading me towards more of a career in software engineering. Perhaps mixing the two in the future utilizing MLOps.
-    description: | # this will include new lines to allow paragraphs
-
+      Pursuing a Master's in Life Science Informatics with study track Bioinformatics and Systems Medicine.
+    description: "I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data \nmy current interest in software development and machine learning is taking me futher away from the academic side.\n#magic___^_^___line\n#magic___^_^___line\n"
 - title: A Little More About Me
   layout: text
   content: | # this will include new lines to allow paragraphs
