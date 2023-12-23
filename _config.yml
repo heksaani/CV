@@ -74,37 +74,39 @@ content:
     description: | # this will include new lines to allow paragraphs
 
 - title: Education
-layout: list
-content:
-  - layout: top-middle
-    title: University of Helsinki
-    caption: 2019 - Present
-    sub_title: BSc of Science (2019-2022) &  MSc of Science (2022-present)
-    description: "I am currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
-  - layout: top-middle
-    title: Technical Skills
-    caption: Programming Languages
-    description: >
-      Proficient in a variety of programming languages used in software development, data analysis, and machine learning:
-      - <mark>Python</mark>: Extensive use in data science, machine learning, and software development. 
-      - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data.
-      - <mark>Java</mark>: My first language, only used it to get me started with programming.
-      - <mark>Bash</mark>: Learned the basics in school and then used in my reasearch assistant job.
-      - <mark>HTML</mark>: I have basic knowledge in html and have used it in some of my projects.
-  - layout: top-middle
-    title: IT Tools
-    caption: Relevant Tools and Technologies
-    description: >
-      Experience with a range of IT tools and technologies:
-      - MLflow: For managing the ML lifecycle, including experimentation and deployment.
-      - Deepchecks: validating ML data and models 
-      - Optuna: hyperparameter optimization framerwork
-      - Kubeflow: building and deploying machine learning (ML) workflows using Docker containers
-      - Docker: Basics, used images in my job 
-      - Prometheus, Grafana, Evidently: model and data evaluation, monitoring and testing
-      - Git: Used for version control in software and data science projects.
-      - Unix/Linux: Proficient in using Unix-like environments for data processing.
-      - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm.
+  layout: list
+  content:
+    - layout: top-middle
+      title: University of Helsinki
+      caption: 2019 - Present
+      sub_title: BSc of Science (2019-2022) &  MSc of Science (2022-present)
+      description: "I am currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
+    - layout: top-middle
+      title: Technical Skills
+      caption: Programming Languages
+      description: >
+        Proficient in a variety of programming languages used in software development, data analysis, and machine learning:
+        - <mark>Python</mark>: Extensive use in data science, machine learning, and software development. 
+        - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data.
+        - <mark>Java</mark>: My first language, only used it to get me started with programming.
+        - <mark>Bash</mark>: Learned the basics in school and then used in my reasearch assistant job.
+        - <mark>HTML</mark>: I have basic knowledge in html and have used it in some of my projects.
+    - layout: top-middle
+      title: IT Tools
+      caption: Relevant Tools and Technologies
+      description: >
+        Experience with a range of IT tools and technologies:
+        - MLflow: For managing the ML lifecycle, including experimentation and deployment.
+        - Deepchecks: validating ML data and models 
+        - Optuna: hyperparameter optimization framerwork
+        - Kubeflow: building and deploying machine learning (ML) workflows using Docker containers
+        - Docker: Basics, used images in my job 
+        - Prometheus, Grafana, Evidently: model and data evaluation, monitoring and testing
+        - Git: Used for version control in software and data science projects.
+        - Unix/Linux: Proficient in using Unix-like environments for data processing.
+        - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm.
+
+
 - title: A Little More About Me
   - layout: bottom-middle
   description: > # this will include new lines to allow paragraphs
