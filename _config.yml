@@ -64,14 +64,22 @@ content:
     quote: >
       Using different bioinformatic tools to analyse primarily sequencing data. 
     description: | # this will include new lines to allow paragraphs
+    title: Folkhälsan Research Center
+    link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+    # link_text: boringcompany.com
+    sub_title: Research Assistant
+    caption: January 2023 - Present
+    quote: >
+      Using different bioinformatic tools to analyse primarily sequencing data. 
+    description: | # this will include new lines to allow paragraphs
 
 - title: Education # Title for the section
   layout: list # Type of content section (list/text)
   content:
-  - layout: bottom-middle
+  - layout: top-middle
     title: University of Helsinki
     caption: 2019 - Present
-    sub_title: BSc of Science (2019-2022) and MSc of Science (2022-present)
+    sub_title: BSc of Science (2019-2022) &  MSc of Science (2022-present)
     quote: >
       Pursuing a Master's in Life Science Informatics with study track Bioinformatics and Systems Medicine.
     description: "I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data \nmy current interest in software development and machine learning is taking me futher away from the academic side.\n\n"
