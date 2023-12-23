@@ -64,13 +64,13 @@ content:
     quote: >
       Using different bioinformatic tools to analyse primarily sequencing data. 
     description: | # this will include new lines to allow paragraphs
-    title: Folkhälsan Research Center
-    link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
-    # link_text: boringcompany.com
-    sub_title: Research Assistant
-    caption: January 2023 - Present
+  - layout: top-middle
+    title: Fision
+    link: http://www.fision.fi/en/
+    sub_title: Software testing
+    caption: September 2021 - Februare 2022
     quote: >
-      Using different bioinformatic tools to analyse primarily sequencing data. 
+      User endpoint testing LIMS (Laboratory Information Management System)
     description: | # this will include new lines to allow paragraphs
 
 - title: Education
