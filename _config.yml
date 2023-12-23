@@ -79,12 +79,11 @@ content:
     - layout: top-middle
       title: University of Helsinki
       caption: 2019 - Present
-      sub_title: BSc of Science (2019-2022) &  MSc of Science (2022-present)
-      description: "I am currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
+      description: "Bachelor of Science in Molecular Biology (2022). Currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
     - layout: top-middle
       title: Technical Skills
       caption: Programming Languages
-      description: >
+      description: |
         Proficient in a variety of programming languages used in software development, data analysis, and machine learning:
         - <mark>Python</mark>: Extensive use in data science, machine learning, and software development. 
         - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data.
@@ -94,7 +93,7 @@ content:
     - layout: top-middle
       title: IT Tools
       caption: Relevant Tools and Technologies
-      description: >
+      description: |
         Experience with a range of IT tools and technologies:
         - MLflow: For managing the ML lifecycle, including experimentation and deployment.
         - Deepchecks: validating ML data and models 
