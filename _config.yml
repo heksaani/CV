@@ -84,26 +84,26 @@ content:
       title: Technical Skills
       caption: Programming Languages
       description: |
-        Proficient in a variety of programming languages used in software development, data analysis, and machine learning:
-        - <mark>Python</mark>: Extensive use in data science, machine learning, and software development. 
-        - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data.
-        - <mark>Java</mark>: My first language, only used it to get me started with programming.
-        - <mark>Bash</mark>: Learned the basics in school and then used in my reasearch assistant job.
-        - <mark>HTML</mark>: I have basic knowledge in html and have used it in some of my projects.
+        Proficient in a variety of programming languages used in software development, data analysis, and machine learning: <br>
+        - <mark>Python</mark>: Extensive use in data science, machine learning, and software development. <br>
+        - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data. <br>
+        - <mark>Java</mark>: My first language, only used it to get me started with programming. <br>
+        - <mark>Bash</mark>: Learned the basics in school and then used in my reasearch assistant job. <br>
+        - <mark>HTML</mark>: I have basic knowledge in html and have used it in some of my projects. <br>
     - layout: top-middle
       title: IT Tools
       caption: Relevant Tools and Technologies
       description: |
-        Experience with a range of IT tools and technologies:
-        - MLflow: For managing the ML lifecycle, including experimentation and deployment.
-        - Deepchecks: validating ML data and models 
-        - Optuna: hyperparameter optimization framerwork
-        - Kubeflow: building and deploying machine learning (ML) workflows using Docker containers
-        - Docker: Basics, used images in my job 
-        - Prometheus, Grafana, Evidently: model and data evaluation, monitoring and testing
-        - Git: Used for version control in software and data science projects.
-        - Unix/Linux: Proficient in using Unix-like environments for data processing.
-        - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm.
+        Experience with a range of IT tools and technologies: <br>
+        - MLflow: For managing the ML lifecycle, including experimentation and deployment. <br>
+        - Deepchecks: validating ML data and models <br>
+        - Optuna: hyperparameter optimization framerwork <br>
+        - Kubeflow: building and deploying machine learning (ML) workflows using Docker containers <br>
+        - Docker: Basics, used images in my job <br>
+        - Prometheus, Grafana, Evidently: model and data evaluation, monitoring and testing <br>
+        - Git: Used for version control in software and data science projects. <br>
+        - Unix/Linux: Proficient in using Unix-like environments for data processing. <br>
+        - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm. <br>
 
 
 - title: A Little More About Me
