@@ -46,12 +46,12 @@ content:
       url: github.com/Jouchef/ohtu_kandi_viitteet
     #quote: >
     #  A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-    description: "It was a great learning experience and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method\n"
+    description: "It was a great learning experience as my first group project and I learned a lot about working in a team and using version control. We used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method\n"
   - layout: top-middle
     border: weak
     title: Database application
     link: https://github.com/heksaani/database-application
-    description: "We used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to upload citations and then download them in a bibtext format. We did all of this while using Scrum as our project management method\n"
+    description: "This was my first application and I used <mark>Python</mark> and <mark>Flask</mark> to create a web application \nthat allows users to make todo's\n"
 - title: Experience # Title for the section
   layout: list # Type of content section (list/text)
   content:
@@ -84,7 +84,7 @@ content:
       Pursuing a Master's in Life Science Informatics with study track Bioinformatics and Systems Medicine.
     description: "I am currently pursuing a Master's in Life Science Informatics at the University of Helsinki. While I am very much interested in biological data \nmy current interest in software development and machine learning is taking me futher away from the academic side.\n\n"
 - title: A Little More About Me
-  layout: text
+  layout: list
   content: | # this will include new lines to allow paragraphs
     Alongside my interests in computers and data some of my other interests and hobbies are:
     - Poetry
