@@ -104,7 +104,7 @@ content:
         - Git: Used for version control in software and data science projects. <br>
         - Unix/Linux: Proficient in using Unix-like environments for data processing. <br>
         - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm. <br>
-
+        - Amazon aws S3 object storage: Handling data from and to object storage <br>
 
 - title: A Little More About Me
   layout: list
