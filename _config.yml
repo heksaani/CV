@@ -79,7 +79,8 @@ content:
     - layout: top-middle
       title: University of Helsinki
       caption: 2019 - Present
-      description: "Bachelor of Science in Molecular Biology (2022). Currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
+      description: "Bachelor of Science in Molecular Biology (2022) optional studies in computer science and mathematics. <b>"
+      "Currently pursuing a Master’s in Life Science Informatics at the University of Helsinki. While I am deeply interested in biological data, my growing enthusiasm for software development and machine learning is gradually shifting my focus away from the academic side of the field."
     - layout: top-middle
       title: Technical Skills
       caption: Programming Languages
