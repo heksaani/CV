@@ -31,7 +31,7 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development.\nI am also starting to work on my Master's thesis this coming Spring. It will focus on the pipelines used in analysing \nLong Read Sequencing data. \n "
+about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development and MLOPS.\nI am also starting to work on my Master's thesis this coming Summer. \n "
 content:
 - title: Projects # Title for the section
   layout: list
