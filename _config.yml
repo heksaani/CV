@@ -56,8 +56,13 @@ content:
   layout: list # Type of content section (list/text)
   content:
   - layout: top-middle
-    title: Folkhälsan Research Center
-    link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+    title: University of Helsinki
+    link: https://www.helsinki.fi/en/researchgroups/bioinformatics-and-evolution
+    
+    sub_title: Research Assistant, Master thesis student
+    caption: June 2024 - September 2024
+    quote: >
+      Analyzing microbial methylation data to classify taxa using data analytic methods
   - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
