@@ -85,13 +85,13 @@ content:
   layout: list
   content:
     - layout: top-middle
-      title: University of Helsinki
-      caption: 2019 - Present
-      description: "Master’s in Life Science Informatics at the University of Helsinki."
+      title: University of Helsinki, Master of Science in Bioinformatics and Systems Medicine
+      caption: 2022 - Present
+      description: 
     - layout: top-middle
-      title: University of Helsinki
+      title: University of Helsinki, Bachelor of Science in Molecular Biology minoring in computer science and mathematics
       caption: 2019 - 2022
-      description: "Bachelor of Science in Molecular Biology (2022) optional studies in computer science and mathematics."
+      description: 
     - layout: top-middle
       title: Technical Skills
       caption: Programming Languages
