@@ -58,6 +58,9 @@ content:
   - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+  - layout: top-middle
+    title: Folkhälsan Research Center
+    link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
     # link_text: boringcompany.com
     sub_title: Research Assistant
     caption: January 2023 - Present
@@ -89,7 +92,7 @@ content:
         - <mark>R</mark>: Applied for statistical analysis and data visualization in biological data. <br>
         - <mark>Java</mark>: My first language, only used it to get me started with programming. <br>
         - <mark>Bash</mark>: Learned the basics in school and then used it in my reasearch assistant job. <br>
-        - <mark>HTML</mark>: I have basic knowledge in html and have used it in some of my projects. <br>
+        - <mark>HTML/CSS</mark>: I have basic knowledge in html + CSS and have used it in some of my projects. <br>
     - layout: top-middle
       title: IT Tools
       caption: Relevant Tools and Technologies
@@ -104,7 +107,7 @@ content:
         - Git: Used for version control in software and data science projects. <br>
         - Unix/Linux: Proficient in using Unix-like environments for data processing. <br>
         - High-Performance Computing (HPC) Platforms: Experienced in leveraging HPC for large data analysis and large-scale computational tasks. For example batch jobs with Slurm. <br>
-        - Amazon aws S3 object storage: Handling data from and to object storage <br>
+        - Amazon aws S3 object storage: Handling data from and to object storage using python cli tools <br>
 
 - title: A Little More About Me
   layout: list
@@ -113,7 +116,7 @@ content:
     title: More about me
     caption:
     description: >
-      Coming soon...
+      In my free time I have found interest to make a project using Arduino microprocessor
 
 
 # Footer
