@@ -84,12 +84,19 @@ content:
   layout: list
   content:
     - layout: top-middle
-      title: Folkhälsan Research Center
-      link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
-      sub_title: Research Assistant
-      caption: January 2023 - June 2024
+      title: University of Helsinki
+      link: https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme
+      sub_title: Master of Science in Bioinformatics and Systems Medicine
+      caption: 2022 - 
       quote: >
-        Using different bioinformatic tools to analyse primarily sequencing data.
+      description:
+    - layout: top-middle
+      title: University of Helsinki
+      link: 
+      sub_title: Bachelor of Science in Molecular Biology 
+      caption: 2019 - 2022
+      quote: >
+        Minoring in computer science, math and statistics 
       description:
     - layout: top-middle
       title: University of Helsinki, Master of Science in Bioinformatics and Systems Medicine
