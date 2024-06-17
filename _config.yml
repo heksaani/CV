@@ -55,15 +55,6 @@ content:
 - title: Experience # Title for the section
   layout: list # Type of content section (list/text)
   content:
-   - layout: top-middle
-    title: University of Helsinki
-    link: https://www.helsinki.fi/en/researchgroups/bioinformatics-and-evolution
-    # link_text: boringcompany.com
-    sub_title: Research Assistant, Master thesis work
-    caption: June 2024 - September 2024
-    quote: >
-      Analyzing metagenomic methylation data using data scientific methods (LINK to thesis will appear here) 
-    description: |
   - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
