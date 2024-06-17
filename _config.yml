@@ -66,7 +66,6 @@ content:
   - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
-    # link_text: boringcompany.com
     sub_title: Research Assistant
     caption: January 2023 - June 2024
     quote: >
@@ -76,7 +75,7 @@ content:
     title: Fision
     link: http://www.fision.fi/en/
     sub_title: Software testing
-    caption: September 2021 - Februare 2022
+    caption: September 2021 - February 2022
     quote: >
       User endpoint testing and documenting of LIMS (Laboratory Information Management System)
     description: | # this will include new lines to allow paragraphs
@@ -84,6 +83,14 @@ content:
 - title: Education
   layout: list
   content:
+    - layout: top-middle
+      title: Folkhälsan Research Center
+      link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
+      sub_title: Research Assistant
+      caption: January 2023 - June 2024
+      quote: >
+        Using different bioinformatic tools to analyse primarily sequencing data.
+      description:
     - layout: top-middle
       title: University of Helsinki, Master of Science in Bioinformatics and Systems Medicine
       caption: 2022 - Present
