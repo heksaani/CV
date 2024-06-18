@@ -36,7 +36,7 @@ content:
 - title: Projects # Title for the section
   layout: list
   content:
-    - layout: top-middle
+  - layout: top-middle
     border: weak
     title: Machine learning project in Molecular Biology
     link: https://github.com/heksaani/ML-in-molecular-biology
@@ -47,7 +47,7 @@ content:
     link: https://github.com/Jouchef/ohtu_kandi_viitteet
     additional_links:
     - title: Github page for project
-      icon: fab fa-github
+      #icon: fab fa-github
       url: github.com/Jouchef/ohtu_kandi_viitteet
     #quote: >
     #  A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
