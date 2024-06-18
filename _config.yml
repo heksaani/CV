@@ -39,7 +39,7 @@ content:
   - layout: top-middle
     border: weak
     title: Machine learning project in Molecular Biology
-    link: https://github.com/heksaani/ML-in-molecular-biology
+    link: https://github.com/heksaani/ML-in-molecular-biology/blob/main/GROUP_WORK/GROUP.ipynb
     additional_links:
   - layout: top-middle
     border: weak
