@@ -36,6 +36,11 @@ content:
 - title: Projects # Title for the section
   layout: list
   content:
+    - layout: top-middle
+    border: weak
+    title: Machine learning project in Molecular Biology
+    link: https://github.com/heksaani/ML-in-molecular-biology
+    additional_links:
   - layout: top-middle
     border: weak
     title: Citation management application
