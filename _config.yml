@@ -76,14 +76,6 @@ content:
     quote: >
       Using different bioinformatic tools to primarily analyse sequencing data. 
     description: | # this will include new lines to allow paragraphs
-  - layout: top-middle
-    title: Fision
-    link: http://www.fision.fi/en/
-    sub_title: Software testing
-    caption: September 2021 - February 2022
-    quote: >
-      User endpoint testing and documenting of LIMS (Laboratory Information Management System)
-    description: | # this will include new lines to allow paragraphs
 
 - title: Education
   layout: list
