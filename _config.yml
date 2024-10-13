@@ -89,6 +89,13 @@ content:
   layout: list
   content:
     - layout: top-middle
+      title: Kajaani University of Applied Science
+      link: https://kamk.fi/koulutukset/tieto-ja-viestintatekniikan-insinoori-datasta-tekoalyyn-paakaupunkiseutu-monimuoto/
+      sub_title: Information and communication technology engineer specializing in data science and machine learning 
+      caption: 2024 - 
+      quote: >
+      description:
+    - layout: top-middle
       title: University of Helsinki
       link: https://www.helsinki.fi/en/degree-programmes/life-science-informatics-masters-programme
       sub_title: Master of Science in Bioinformatics and Systems Medicine
