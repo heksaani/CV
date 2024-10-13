@@ -8,7 +8,7 @@ version: 2
 name: Heidi Putkuri
 title: Master thesis student, University of Helsinki
 email: heidi.putkuri@helsinki.fi
-website: www.github.com/heksaani
+# website: www.github.com/heksaani
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -31,7 +31,7 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: "Hi, my name's Heidi currently pursuing a Master's in Life Science Informatics at the University of Helsinki. To enhance my skills I am also working part time as a research assistant at Folkhälsan Research Center.\nWhile I am very much interested in biological data my current interet are leaning more towards software development and MLOPS.\nI am also starting to work on my Master's thesis this coming Summer. \n "
+about_content: "I am Heidi Putkuri currently pursuing a Master's in Life Science Informatics at the University of Helsinki.\nWhile I am very much interested in biological data my current interet are leaning more towards general data science and MLOPS.\nI am currently finishing my Master's thesis while studying Machine learnin and data science in the University of applied sciences of Kajaani remotely. \n "
 content:
 - title: Projects # Title for the section
   layout: list
@@ -65,16 +65,16 @@ content:
     link: https://www.helsinki.fi/en/researchgroups/bioinformatics-and-evolution
     
     sub_title: Research Assistant, Master thesis student
-    caption: June 2024 - September 2024
+    caption: June 2024 - October 2024
     quote: >
-      Analyzing microbial methylation data to classify taxa using data scientific methods
+      Analyzing microbial methylation data to classify taxa using machine learning 
   - layout: top-middle
     title: Folkhälsan Research Center
     link: https://www.folkhalsan.fi/en/knowledge/research/genetics/group-turunen/
     sub_title: Research Assistant
     caption: January 2023 - June 2024
     quote: >
-      Using different bioinformatic tools to analyse primarily sequencing data. 
+      Using different bioinformatic tools to primarily analyse sequencing data. 
     description: | # this will include new lines to allow paragraphs
   - layout: top-middle
     title: Fision
