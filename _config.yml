@@ -15,7 +15,7 @@ darkmode: true
 
 # Social links
 github_username: heksaani
-instagram_username: heksaani
+#instagram_username: heksaani
 linkedin_username: heidi-putkuri
 
 # Additional icon links
@@ -31,7 +31,7 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: "I am Heidi Putkuri currently pursuing a Master's in Life Science Informatics at the University of Helsinki.\nWhile I am very much interested in biological data my current interet are leaning more towards general data science and MLOPS.\nI am currently finishing my Master's thesis while studying Machine learnin and data science in the University of applied sciences of Kajaani remotely. \n "
+about_content: "I am Heidi Putkuri currently pursuing a Master's in Life Science Informatics at the University of Helsinki.\nWhile I am very much interested in biological data my current interet are leaning more towards general data science, software development and MLOPS.\nI am currently finishing my Master's thesis while studying Machine learnin and data science in the University of applied sciences of Kajaani remotely. \n "
 content:
 - title: Projects # Title for the section
   layout: list
